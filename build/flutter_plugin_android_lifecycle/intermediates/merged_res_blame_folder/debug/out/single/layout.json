@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Wanderv1-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Akshara\\.gradle\\caches\\transforms-2\\files-2.1\\7d77d4ebbaf550305d01ed54778f79fb\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Wanderv1-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Akshara\\.gradle\\caches\\transforms-2\\files-2.1\\7d77d4ebbaf550305d01ed54778f79fb\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Wanderv1-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Akshara\\.gradle\\caches\\transforms-2\\files-2.1\\7d77d4ebbaf550305d01ed54778f79fb\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Wanderv1-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Akshara\\.gradle\\caches\\transforms-2\\files-2.1\\7d77d4ebbaf550305d01ed54778f79fb\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Wanderv1-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Akshara\\.gradle\\caches\\transforms-2\\files-2.1\\7d77d4ebbaf550305d01ed54778f79fb\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Wanderv1-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Akshara\\.gradle\\caches\\transforms-2\\files-2.1\\7d77d4ebbaf550305d01ed54778f79fb\\core-1.6.0\\res\\layout\\notification_action.xml"
+    }
+]
