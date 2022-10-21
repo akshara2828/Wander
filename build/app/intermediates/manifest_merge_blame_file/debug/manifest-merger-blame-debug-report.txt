@@ -85,13 +85,9 @@
 66        <meta-data
 67            android:name="flutterEmbedding"
 68            android:value="2" />
-69        <!--
-70           <meta-data android:name="com.google.android.geo.API_KEY"
-71           android:value="AIzaSyAB-DkH8CJbh9t6NGdVK6qhy9W5MFEI_x4"/>
-72        -->
 73        <meta-data
 74            android:name="com.google.android.geo.API_KEY"
-75            android:value="AIzaSyBb9glzVWd3PC6jD6TR5ifTQkjv8NksRd4" />
+75            android:value="YOUR API KEY" />
 76
 77        <service
 77-->[:geolocator_android] C:\Wanderv1-main\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:56
